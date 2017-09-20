@@ -5,7 +5,7 @@ public class Karublammassilinelill {
 		String karu="Ka karu ju ei pese end kuid seegipoolest tugevaks ta jääb!";
 		int rubla=616;
 		String õlu="õllet";
-		String staatus="kõhus";
+		String staatus="kõhus!";
 		System.out.println(karu+rubla+õlu+staatus);
 
 	}
