@@ -7,7 +7,7 @@ public class Karublammassilinelill {
 		String õlu="õllet";
 		String staatus="kõhus!";
 		System.out.println(karu+rubla+õlu+staatus);
-
+		// test
 	}
 
 }
